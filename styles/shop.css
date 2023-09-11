@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'EB Garamond', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    display:flex;
+    justify-content: space-around;
+    height: 500px;
+    align-items: center;
+}
+.flower-picture{
+    width: 400px;
+}

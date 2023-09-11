@@ -14,6 +14,7 @@ body {
     background: #E55473;
     border: none;
     padding: 20px 40px;
+    align-items: center;
 
 }
 
@@ -74,7 +75,7 @@ body {
     height: 420px;
     border: 8px;
     border-radius: 300px 300px 0px 0px;
-    background: url(../images/pngwing\ 6.png), rgba(71, 125, 17, 0.15);
+    background: url(../images/pngwing\ 6.png), rgba(167, 33, 98, 0.15);
     background-repeat: no-repeat;
 
 }
@@ -84,7 +85,7 @@ body {
     height: 420px;
     border: 8px;
     border-radius: 300px 300px 0px 0px;
-    background: url(../images/pngwing\ 5.png), rgba(71, 125, 17, 0.15);
+    background: url(../images/pngwing\ 5.png), rgba(5, 151, 160, 0.15);
     background-repeat: no-repeat;
 
 }

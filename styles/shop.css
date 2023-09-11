@@ -7,13 +7,14 @@ body {
 }
 
 .btn-primary {
-    color: #FFF;
+    color: #FFF;   
     font-size: 20px;
     font-weight: 700;
     border-radius: 5px;
     background: #E55473;
     border: none;
     padding: 20px 40px;
+    
 }
 
 .title-primary {
@@ -107,4 +108,20 @@ body {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+}
+/*Deals section style*/
+.deal-items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 45px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
+.insta-flower{
+    display: flex;
+    margin-right: 45px;
+    margin-left: 45px;
+    justify-content: space-around;
+    
 }

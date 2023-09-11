@@ -7,14 +7,14 @@ body {
 }
 
 .btn-primary {
-    color: #FFF;   
+    color: #FFF;
     font-size: 20px;
     font-weight: 700;
     border-radius: 5px;
     background: #E55473;
     border: none;
     padding: 20px 40px;
-    
+
 }
 
 .title-primary {
@@ -109,8 +109,9 @@ body {
     line-height: 35px;
     text-decoration-line: underline;
 }
+
 /*Deals section style*/
-.deal-items{
+.deal-items {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -118,27 +119,37 @@ body {
     background: rgba(229, 84, 115, 0.05);
 
 }
-.insta-flower{
+
+.insta-flower {
     display: flex;
     margin-top: 85px;
     margin-right: 45px;
     margin-left: 45px;
     justify-content: space-around;
-    
+
 }
+
 /*latest deal*/
-.latest-deal-item{
+.latest-deal-item {
     background: url(../images/Rectangle\ 9.png);
     margin-left: 55px;
     margin-top: 85px;
     width: 1400px;
     height: 350px;
-    
+
 }
-.input-area{
+
+.input-area {
     width: 450px;
     height: 60px;
     margin-left: 350px;
 }
-    
-   
+
+/*footer area style*/
+.footer-area {
+    background: #675449;
+    height: 325px;
+}
+.footer-flower{
+    color: #E55473;
+}

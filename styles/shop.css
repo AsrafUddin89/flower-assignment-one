@@ -114,14 +114,31 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 45px;
+    margin-top: 75px;
     background: rgba(229, 84, 115, 0.05);
 
 }
 .insta-flower{
     display: flex;
+    margin-top: 85px;
     margin-right: 45px;
     margin-left: 45px;
     justify-content: space-around;
     
 }
+/*latest deal*/
+.latest-deal-item{
+    background: url(../images/Rectangle\ 9.png);
+    margin-left: 55px;
+    margin-top: 85px;
+    width: 1400px;
+    height: 350px;
+    
+}
+.input-area{
+    width: 450px;
+    height: 60px;
+    margin-left: 350px;
+}
+    
+   

@@ -1,19 +1,49 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
-body{
+
+/*common styles section*/
+body {
     font-family: 'EB Garamond', serif;
-font-family: 'Lato', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Work Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
-.banner{
-    display:flex;
+
+.btn-primary {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    background: #E55473;
+    border: none;
+    padding: 20px 40px;
+}
+
+/*banner styles section*/
+.banner {
+    display: flex;
     justify-content: space-around;
     height: 500px;
+    padding: 0px 150px;
     align-items: center;
+    background: rgba(229, 84, 115, 0.10);;
 }
-.flower-picture{
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.flower-picture {
     width: 400px;
 }
